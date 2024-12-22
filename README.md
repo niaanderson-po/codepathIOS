@@ -25,21 +25,21 @@ The following **required** functionality is completed:
 
 4 of my favorite applications and 2 features that make these applications my favorite are:
 
-Duolingo: (education company)
-Diverse animated characters
-Home screen streak widget
+Duolingo: (education company)<br>
+Diverse animated characters<br>
+Home screen streak widget<br>
 
-Arc: (browser company)
-Pinch to summarize article
-Lift to ear to activate search through conversation
+Arc: (browser company)<br>
+Pinch to summarize article<br>
+Lift to ear to activate search through conversation<br>
 
-ColorStack Members Profile: (tech non-profit company)
-Open source repository for member contributions
-Gamified activities board
+ColorStack Members Profile: (tech non-profit company)<br>
+Open source repository for member contributions<br>
+Gamified activities board<br>
 
-Pinterest: (social media company)
-Skintone range, hair type, and body type search-filtering
-Responsive smart feed
+Pinterest: (social media company)<br>
+Skin tone, hair pattern, and body type search tool<br>
+Responsive smart feed<br>
 
 An application idea that I would like to build is SoulViynl, a music streaming app with a virtual vinyl record overlaid on black archived content. 
 The purpose of this app is a creative archiving outlet dedicated to combatting black historical erasure and deepen users' connection to black cultural upbringings through music's grounding and intergenerational storytelling.
